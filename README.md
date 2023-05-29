@@ -11,4 +11,4 @@ The program consists of several parts, including:
 
 ### Languages and Tools
 
-- Python : Keras, Pandas, NumPy, RegEx
+Python : Keras, Pandas, NumPy, RegEx
