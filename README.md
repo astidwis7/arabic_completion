@@ -1,6 +1,6 @@
 # Arabic Completion
 
-Arabic Completion is a RNN-based bald arabic completion model.
+Arabic Completion is a Recurrent Neural Network-based bald arabic completion model.
 
 A sentence written in bald Arabic will be completed so that it becomes complete Arabic.
 
